@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/1207-unique-number-of-occurrences) |
@@ -39,5 +40,6 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
