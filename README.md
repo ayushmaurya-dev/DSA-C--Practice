@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0268-missing-number) |
 | [1207-unique-number-of-occurrences](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -22,6 +23,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -42,4 +44,5 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ayushmaurya-dev/DSA-C--Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
